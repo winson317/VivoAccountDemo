@@ -87,7 +87,7 @@ public class MainActivity extends Activity implements OnClickListener {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				} 
-//				Toast.makeText(mContext, loginResult, Toast.LENGTH_SHORT).show();
+				//Toast.makeText(mContext, loginResult, Toast.LENGTH_SHORT).show();
 				Log.d(TAG, "loginResult="+loginResult);
 			}
 		}
